@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.travok.de/categories/</loc>
+<lastmod>2022-06-18T18:38:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.travok.de/tags/</loc>
+<lastmod>2022-06-18T18:38:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.travok.de/archives/</loc>
+<lastmod>2022-06-18T18:38:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.travok.de/about/</loc>
+<lastmod>2022-06-18T18:38:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.travok.de/</loc>
+</url>
+</urlset>
