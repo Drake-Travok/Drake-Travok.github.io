@@ -21,9 +21,9 @@ timezone: Berlin/Europe
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Felix Blog Test                          # the main title
+title: Felix Blog                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Documentation of my Experiences upon my Work'n'Travl in Australia   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   minimal Testing environment.
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: This is private
+  name: Felix Irmscher
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
